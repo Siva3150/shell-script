@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATE=$(data)
+DATE=$(date)
 
 echo "Hello, this script is executed at timestamp:$DATE"
 
