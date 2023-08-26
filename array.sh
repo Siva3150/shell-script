@@ -8,4 +8,4 @@ echo "First person:${PERSONS[1]}"
 
 echo "First person:${PERSONS[2]}"
 
-echo "All person:${PERSONS[@]}"
+echo "All persons:${PERSONS[@]}"
