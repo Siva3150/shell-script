@@ -2,4 +2,4 @@
 
 PERSONS=("Ramesh "suresh" "Dhoni")
 
-echo "First person;${PERSON[0]}"
+echo "First person:${PERSON[0]}"
